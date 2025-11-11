@@ -813,7 +813,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 📖 [Official API Documentation](https://docs.firecrawl.dev)
 - 🐛 [Report Issues](https://github.com/thoven87/firecrawl-swift-sdk/issues)
-- 💬 [Discord Community]()
+- 💬 [Discord Community](https://discord.com/invite/gSmWdAkdwd)
 - 📧 [Email Support](mailto:help@firecrawl.dev)
 - 🐦 [Follow us on Twitter](https://twitter.com/firecrawl_dev)
 
