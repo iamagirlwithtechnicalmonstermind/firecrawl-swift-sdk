@@ -21,7 +21,6 @@ env:
 jobs:
   linux:
     runs-on: ubuntu-latest
-    container: swift:6.2-jammy
     timeout-minutes: 15
 
     steps:
